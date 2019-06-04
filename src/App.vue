@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+<!--    <img alt="Vue logo" src="./assets/logo.png">-->
     <h1>Minimal <br> Cosmos+Ledger <br>delegation example</h1>
     <CosmosLedger msg="Minimal Cosmos+Ledger delegation example"/>
   </div>
